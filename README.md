@@ -13,7 +13,7 @@ Jupyter Notebook (BurgerSingh.ipynb) — Step-by-step code for cleaning, process
 
 PDF Report(BS_documentation.pdf) — Detailed answers to all four assessment questions, including insights, strategies, and recommendations.
 
-## Contents
+### Contents
 **1. Data Files**
 It has Excel files provided for the assessment.
 
@@ -33,6 +33,7 @@ Uses Python libraries (pandas, numpy, etc.) for analysis.
 Outputs are structured for direct use in the final report.
 
 **3. PDF Report (BS_documentation.pdf)**
+
 Q1: P&L Statement & Performance Metrics
 
 Q2: Performance Evaluation & Key Improvement Areas
@@ -43,7 +44,8 @@ Q4: Investment Decision on Burger Singh Franchise (₹1 crore)
 
 Each answer is humanized, business-oriented, and data-backed.
 
-🔍 How to Review
+
+###🔍 How to Review
 Start with the PDF
 
 Open Burger_Singh_Report.pdf to read all four answers in a structured format.
