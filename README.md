@@ -15,22 +15,22 @@ PDF Report(BS_documentation.pdf) — Detailed answers to all four assessment que
 
 ### Contents
 **1. Data Files**
-It has Excel files provided for the assessment.
+-- It has Excel files provided for the assessment.
 
-They are used as input for the analysis notebook.
+--- They are used as input for the analysis notebook.
 
 **2. Jupyter Notebook  (BurgerSingh.ipynb)**
-Includes data cleaning, transformation, and calculations for:
+-- Includes data cleaning, transformation, and calculations for:
 
-Profit & Loss Statement
+-- Profit & Loss Statement
 
-Performance Metrics
+-- Performance Metrics
 
-Operational Metrics (Orders, Revenue by Category, Top/Bottom Items)
+-- Operational Metrics (Orders, Revenue by Category, Top/Bottom Items)
 
-Uses Python libraries (pandas, numpy, etc.) for analysis.
+-- Uses Python libraries (pandas, numpy, etc.) for analysis.
 
-Outputs are structured for direct use in the final report.
+-- Outputs are structured for direct use in the final report.
 
 **3. PDF Report (BS_documentation.pdf)**
 
@@ -45,7 +45,7 @@ Q4: Investment Decision on Burger Singh Franchise (₹1 crore)
 Each answer is humanized, business-oriented, and data-backed.
 
 
-###🔍 How to Review
+### 🔍 How to Review
 Start with the PDF
 
 Open Burger_Singh_Report.pdf to read all four answers in a structured format.
