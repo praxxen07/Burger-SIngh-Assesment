@@ -1,4 +1,4 @@
-# Burger-SIngh-Assesment
+# Burger-Singh-Assesment
 The assesment completed for the Hiring process of Burger Singh
 
 
@@ -42,22 +42,20 @@ Q3: Sales Enhancement Strategy (90-day plan)
 
 Q4: Investment Decision on Burger Singh Franchise (₹1 crore)
 
-Each answer is humanized, business-oriented, and data-backed.
-
 
 ### 🔍 How to Review
-Start with the PDF
+1. Start with the PDF
 
-Open Burger_Singh_Report.pdf to read all four answers in a structured format.
+2. Open BS_documentation.pdf to read all four answers in a structured format.
 
-Includes both numerical results and actionable insights.
+3. Includes both numerical results and actionable insights.
 
-Check the Code
+4. Check the Code
 
-Open analysis_notebook.ipynb to see how the analysis was performed.
+5. Open BurgerSingh.ipynb to see how the analysis was performed.
 
-Run it if you want to reproduce or verify results.
+6. Run it if you want to reproduce or verify results.
 
-Explore the Data
+7. Explore the Data
 
-Refer to the Excel files in the data folder for raw inputs.
+8. Refer to the Excel files in the data folder for raw inputs.
